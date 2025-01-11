@@ -1,1 +1,2 @@
-# [linkul principal](https://sknffy.github.io/ImaginiProiect/)
+# Imagini
+- [linkul principal](https://sknffy.github.io/ImaginiProiect/)
