@@ -1,5 +1,5 @@
 # Imagini
-- [linkul principal](https://sknffy.github.io/ImaginiProiect/)
+- https://sknffy.github.io/ImaginiProiect/
 # Imagini pentru lectia de azi:
 - https://sknffy.github.io/ImaginiProiect/Aim.png
 - https://sknffy.github.io/ImaginiProiect/AK74_first_person.png
